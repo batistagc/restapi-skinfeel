@@ -1,36 +1,41 @@
 {
-    "produtos" : [
+  
+  "produtos": [
     {
-        "id" : 1,
-        "nome": "hidratante"  
+      "id": 1,
+      "nome": "hidratante"
     },
     {
-        "id" : 2,
-        "nome": "protetor solar"
+      "id": 2,
+      "nome": "protetor solar"
     },
     {
-        "id": 3,
-        "nome": "sabonete facial"
+      "id": 3,
+      "nome": "sabonete facial"
     },
     {
-        "id" : 4,
-        "nome": "sérum"
+      "id": 4,
+      "nome": "sérum"
     },
     {
-        "id" : 5,
-        "nome": "tônico adstringente"
+      "id": 5,
+      "nome": "tônico adstringente"
     },
     {
-        "id": 6,
-        "nome": "espuma de limpeza"
+      "id": 6,
+      "nome": "espuma de limpeza"
     },
     {
-        "id" : 7,
-        "nome": "limpador facial"
+      "id": 7,
+      "nome": "limpador facial"
     },
     {
-        "id" : 8,
-        "nome": "Vitamina C"
+      "id": 8,
+      "nome": "Vitamina C"
+    },
+    {
+      "nome": "creme para espinhas",
+      "id": 9
     }
-]
+  ]
 }
