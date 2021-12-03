@@ -3,39 +3,96 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "hidratante"
+      "nome": "Hidratante"
     },
     {
       "id": 2,
-      "nome": "protetor solar"
+      "nome": "Protetor solar"
     },
     {
       "id": 3,
-      "nome": "sabonete facial"
+      "nome": "Sabonete facial"
     },
     {
       "id": 4,
-      "nome": "sérum"
+      "nome": "Sérum"
     },
     {
       "id": 5,
-      "nome": "tônico adstringente"
+      "nome": "Tônico Adstringente"
     },
     {
       "id": 6,
-      "nome": "espuma de limpeza"
+      "nome": "Espuma de Limpeza"
     },
     {
       "id": 7,
-      "nome": "limpador facial"
+      "nome": "Limpador Facial"
     },
     {
       "id": 8,
       "nome": "Vitamina C"
     },
     {
-      "nome": "creme para espinhas",
-      "id": 9
+      
+        "id": 9,
+        "nome": "Clareador facial"
+    },
+    {
+        "ïd": 10,
+        "nome": "Esfoliante"
+    },
+    {
+        "id": 11,
+        "nome": "Água micelar"
+    },
+    {
+        "id": 12,
+        "nome": "Tacorefol"
+    },
+    {
+        "id": 13,
+        "nome": "Colágeno"
+    },
+    {
+        "id": 14,
+        "nome": "Eye lifting"
+    },
+    {
+        "id": 15,
+        "nome": "Ácido Hialurônico"
+    },
+    {
+      "id": 16,
+      "nome": "Máscara Facial"
+    },
+    {
+      "id": 17,
+      "nome": "Argila"
+    },
+    {
+      "id": 18,
+      "nome": "Hidratante Labial"
+    },
+    {
+      "id": 19,
+      "nome": "Gel de limpeza"
+    },
+    {
+      "id": 20,
+      "nome": "Anti-idade"
+    },
+    {
+      "id": 21,
+      "nome": "Esfoliante labial"
+    },
+    {
+      "id": 22, 
+      "nome": "Máscara labial"
+    }, 
+    {
+      "id": 23,
+      "nome": "Máscara para olhos"
     }
-  ]
+]
 }
