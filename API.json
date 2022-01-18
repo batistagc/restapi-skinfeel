@@ -3,7 +3,7 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Hidratante"
+      "nome": "Hidratante facial"
     },
     {
       "id": 2,
@@ -40,7 +40,7 @@
     },
     {
         "id": 10,
-        "nome": "Esfoliante"
+        "nome": "Esfoliante facial"
     },
     {
         "id": 11,
@@ -97,11 +97,131 @@
 
     {
       "id": 24,
-      "nome": "Água termal"
+      "nome": "Água Termal"
     },
     {
       "id": 25,
       "nome": "Booster"
+    },
+    {
+      "id": 26,
+      "nome": "BB Cream"
+    },
+    {
+      "id": 27,
+      "nome": "CC Cream"
+    },
+    {
+      "id": 28,
+      "nome": "Creme para olhos"
+    },
+    {
+      "id": 29,
+      "nome": "Creme anti-idade"
+    },
+    {
+      "id": 30,
+      "nome": "Creme noturno"
+    },
+    {
+      "id": 31,
+      "nome": "Corretor de espinhas"
+    },
+    {
+      "id": 32,
+      "nome": "Demaquilante"
+    },
+    {
+      "id": 33,
+      "nome": "Demaquilante bifásico"
+    },
+    {
+      "id": 34,
+      "nome": "Esfoliante corporal"
+    },
+    {
+      "id": 35,
+      "nome": "Gel esfoliante"
+    },
+    {
+      "id": 36,
+      "nome": "Gel secativo"
+    },
+    {
+      "id": 37,
+      "nome": "Hidratante antioxidante"
+    },
+    {
+      "id": 38,
+      "nome": "Hidratante corporal"
+    },
+    {
+      "id": 39,
+      "nome": "Hidragel"
+    },
+    {
+      "id": 40,
+      "nome": "Leite de limpeza"
+    },
+    {
+      "id": 41,
+      "nome": "Máscara labial"
+    },
+    {
+      "id": 42,
+      "nome": "Máscara para olhos"
+    },
+    {
+      "id": 43,
+      "nome": "Mousse de limpeza"
+    },
+    {
+      "id": 44,
+      "nome": "Óleo de limpeza"
+    },
+    {
+      "id": 45,
+      "nome": "Primer"
+    },
+    {
+      "id": 46,
+      "nome": "Primer para olhos"
+    },
+    {
+      "id": 47,
+      "nome": "Retinol"
+    },
+    {
+      "id": 48,
+      "nome": "Regenerador facial"
+    },
+    {
+      "id": 49,
+      "nome": "Sabonete em barra"
+    },
+    {
+      "id": 50,
+      "nome": "Sabonete líquido"
+    },
+    {
+      "id": 51,
+      "nome": "Sérum antioxidante"
+    },
+    {
+      "id": 52,
+      "nome": "Sérum hidratante"
+    },
+    {
+      "id": 53,
+      "nome": "Sérum antiacne"
+    },
+    {
+      "id": 54,
+      "nome": "Tônico adstringente"
+    },
+    {
+      "id": 55,
+      "nome": "Tônico revitalizante"
     }
 ]
 }
