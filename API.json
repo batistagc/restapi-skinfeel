@@ -98,6 +98,10 @@
     {
       "id": 24,
       "nome": "Água termal"
+    },
+    {
+      "id": 25,
+      "nome": "Booster"
     }
 ]
 }
