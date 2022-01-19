@@ -217,11 +217,35 @@
     },
     {
       "id": 54,
-      "nome": "Tônico adstringente"
+      "nome": "Tônico revitalizante"
     },
     {
       "id": 55,
-      "nome": "Tônico revitalizante"
+      "nome": "Babosa"
+    },
+    {
+      "id": 56,
+      "nome": "Carvão ativo"
+    },
+    {
+      "id": 57,
+      "nome": "Areia rosa"
+    },
+    {
+      "id": 58,
+      "nome": "Máscara capilar"
+    },
+    {
+      "id": 59,
+      "nome": "Bruma facial"
+    },
+    {
+      "id": 60,
+      "nome": "Bruma corporal"
     }
+    
+    
+    
+    
 ]
 }
